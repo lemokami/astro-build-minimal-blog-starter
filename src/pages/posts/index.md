@@ -17,3 +17,12 @@ description: Converting my projects to Astro!
 #### H4 - The quick brown fox jumps over the lazy dog
 
 ###### P - The quick brown fox jumps over the lazy dog
+
+--
+# Code block
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}

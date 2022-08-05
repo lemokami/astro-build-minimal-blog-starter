@@ -6,7 +6,7 @@ npm init astro -- --template blog
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+
 
 Features:
 
@@ -22,29 +22,24 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── astro.config.mjs
 ├── package.json
 ├── public
-│   ├── assets
-│   │   └── blog
-│   │       └── introducing-astro.jpg
 │   ├── favicon.ico
 │   ├── social.jpg
 │   └── social.png
-├── sandbox.config.json
 ├── src
 │   ├── components
 │   │   ├── Author.astro
-│   │   ├── BlogHeader.astro
+│   │   ├── BlogHead.astro
 │   │   ├── BlogPost.astro
 │   │   ├── BlogPostPreview.astro
 │   │   ├── Heading.astro
-│   │   └── Logo.astro
+│   │   └── Paragraph.astro
 │   ├── layouts
 │   │   └── BlogPost.astro
 │   ├── pages
 │   │   ├── index.astro
-│   │   └── posts
-│   │       └── index.md
-│   
-└── tsconfig.json
+│  
+└── tsconfig.json  
+└── tailwind.config
 ```
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.

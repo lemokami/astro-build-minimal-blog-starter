@@ -3,7 +3,7 @@ setup: |
   import Layout from '../../layouts/BlogPost.astro'
   import Cool from '../../components/Author.astro'
 title: Moving to Astro from Handlebars.
-publishDate: Thu 23 Jun. 2021 · 20.20
+publishDate: Thu 23 Jun. 2022 · 20.20
 name: Michael Andreuzza
 value: 128
 description: Converting my projects to Astro!
@@ -22,7 +22,7 @@ description: Converting my projects to Astro!
 # Code block
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Mike",
+  "lastName": "Andreuzza",
+  "age": 500
 }

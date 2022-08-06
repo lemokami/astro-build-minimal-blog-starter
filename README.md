@@ -1,4 +1,4 @@
-![Thumbnail](thumbnail.png) or jump into their [Discord server](https://astro.build/chat).
+![Thumbnail](thumbnail.png) 
 Unwrapped minimal blog template with Astro
 # Repo:
 - https://github.com/michael-andreuzza/astro-build-minimal-blog-starter

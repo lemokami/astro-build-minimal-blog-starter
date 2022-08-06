@@ -47,3 +47,5 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview` | Preview your build locally, before deploying |
 ## 👀 Want to learn more?
 Feel free to check [Astro's documentation](https://docs.astro.build) or jump into their [Discord server](https://astro.build/chat).
+
+If you have any question feel free to contact me on Twitter at twitter.com/Mike_Andreuzza
